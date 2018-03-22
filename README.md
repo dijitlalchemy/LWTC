@@ -7,7 +7,7 @@ LoGun Weapon Tracking Cloud(LWTC) v1.0 by Gary Wetter on Wednesday, Feb 21st, 20
 We migrated this project from https://github.com/dijitlalchemist/LWTC repository. The official LWTC project repository will now be located at https://github.com/dijitlalchemy/LWTC/.
 
 
-Orignal Concept As Seen Online https://twitter.com/empireofslop/status/966494823413964800.
+Original Concept As Seen Online https://twitter.com/empireofslop/status/966494823413964800.
 A COPY OF THIS PROJECT'S LICENSE IS ONLINE at https://github.com/dijitlalchemy/LWTC/LICENSE.
 
 LIKE OUR WORK...
