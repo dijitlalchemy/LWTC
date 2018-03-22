@@ -9,3 +9,5 @@ We migrated this project from https://github.com/dijitlalchemist/LWTC repository
 
 Orignal Concept As Seen Online https://twitter.com/empireofslop/status/966494823413964800.
 A COPY OF THIS PROJECT'S LICENSE IS ONLINE at https://github.com/dijitlalchemy/LWTC/LICENSE.
+
+Like Our Work? SUBSCRIBE to THE KING'S BADASS QUARTERLY at https://patreon.com/thekingofslop, for INSIDE ACCESS TO THIS PROJECT and 7 LIMITED EDITION PRINTS by THE KING OF SLOP. 
