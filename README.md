@@ -8,7 +8,7 @@ We migrated this project from https://github.com/dijitlalchemist/LWTC repository
 
 
 Original Concept As Seen Online https://twitter.com/empireofslop/status/966494823413964800.
-A COPY OF THIS PROJECT'S LICENSE IS ONLINE at https://github.com/dijitlalchemy/LWTC/LICENSE.
+A COPY OF THIS PROJECT'S LICENSE IS ONLINE at https://github.com/dijitlalchemy/LWTC/.
 
 LIKE OUR WORK...
 
